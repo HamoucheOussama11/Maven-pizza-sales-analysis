@@ -38,7 +38,8 @@ I used DAX (Data Analysis Expressions) to calculate core KPIs.
 ```dax
 Total Revenue = SUMX(order_details, order_details[quantity] * RELATED(pizzas[price]))
 ```
-####📈 Key Insights
+
+### 📈 Key Insights
 Based on the analysis, I presented the following recommendations to the owner:
 
 Operational Efficiency: Sundays are the slowest days. I recommend reducing staff hours on Sundays to cut costs.

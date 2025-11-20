@@ -33,6 +33,7 @@ Using Power Query, I performed advanced transformations:
 
 #### 3. DAX Calculations
 I used DAX (Data Analysis Expressions) to calculate core KPIs.
+![Measures Screenshot](Measures.PNG)
 * *Example Logic:* I used `SUMX` and `RELATED` to calculate revenue, as Quantity and Price were in separate tables.
 
 ```dax

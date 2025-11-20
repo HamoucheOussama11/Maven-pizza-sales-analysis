@@ -42,8 +42,8 @@ Total Revenue = SUMX(order_details, order_details[quantity] * RELATED(pizzas[pri
 ### 📈 Key Insights
 Based on the analysis, I presented the following recommendations to the owner:
 
-Operational Efficiency: Sundays are the slowest days. I recommend reducing staff hours on Sundays to cut costs.
+* **Operational Efficiency:** Sundays are the slowest days. I recommend reducing staff hours on Sundays to cut costs.
 
-Inventory Management: The "Classic" category drives the most revenue, while "Veggie" pizzas are the worst performers. The owner should consider reducing the Veggie menu options to minimize food waste.
+* **Inventory Management:** The "Classic" category drives the most revenue, while "Veggie" pizzas are the worst performers. The owner should consider reducing the Veggie menu options to minimize food waste.
 
-Trend Analysis: Sales peaked in July but have been trending downward since August. A "Holiday Special" promotion is recommended to reverse the Q4 slump.
+* **Trend Analysis:** Sales peaked in July but have been trending downward since August. A "Holiday Special" promotion is recommended to reverse the Q4 slump.
